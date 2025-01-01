@@ -1,5 +1,5 @@
 # Chat with PDFs using Local LLM 
-Chat with PDFs using local Ollama Models using Lanchain
+Chat with PDFs using local Ollama Models and Langchain to keep documents secure and on-premises 
 
 ### Installing Ollama
 
