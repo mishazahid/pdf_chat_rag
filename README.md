@@ -3,13 +3,17 @@ Chat with PDFs using local Ollama Models using Lanchain
 
 ### Installing Ollama
 
-Download Ollama from [Ollama's website](https://ollama.com/)
+* Download Ollama from [Ollama's website](https://ollama.com/)
 
-Pull the required models
+* Pull the required models
+```
         ollama pull mistral
         ollama pull nomic-embed-text
+```
 
-To view the list of models available
+* To view the list of models available <br/>
+```
         ollama list
+```
 
-Add Ollama Models path to the Environment Variables
+* Add Ollama Models path to the Environment Variables
