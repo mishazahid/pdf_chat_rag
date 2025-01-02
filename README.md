@@ -1,6 +1,10 @@
 # Chat with PDFs using Local LLM 
 Chat with PDFs using local Ollama Models and Langchain to keep documents secure and on-premises 
 
+### Basic Flow of the Usecase
+
+![Flowchart](Flowchart.jpg)
+
 ### Installing Ollama
 
 * Download Ollama from [Ollama's website](https://ollama.com/)
