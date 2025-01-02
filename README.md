@@ -17,3 +17,8 @@ Chat with PDFs using local Ollama Models and Langchain to keep documents secure 
 ```
 
 * Add Ollama Models path to the Environment Variables
+
+### Run the Jupyter Notebook
+
+* Install all the libraries from the requirements.txt file
+* Run the Jupyter Notebook titled 'local_pdf_reader.ipynb'
